@@ -1,0 +1,14 @@
+Welcome to the Tasker app. You can use following commands:-
+1. list show = Shows all the lists available.
+2. list use list_name = Use a given list.
+3. list create list_name = Creat a new list with a given name.
+4. todo add item_names = Add a todo item to the current selected list.
+5. todo all = Shows all the todo items of the selected list.
+6. todo edit item_id new_item_name = Edit the todo item providing the id and the new title.
+7. todo remove item_id = Remove the todo item with the associated id.
+8. todo complete item_id = Mark the item as complete with associated id.
+9. todo incomplete item_id = Mark the item as in-complete with associated id.
+10. help = Opens the help menu.
+1q. quit = Close the todo application./Exit from the todo application./Exit
+Thankyou for using the Tasker app.
+Have a good day.
